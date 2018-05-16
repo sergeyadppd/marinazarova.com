@@ -1,0 +1,343 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"print",
+				"print-area-page2\t(card.htm)"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"margin-bo",
+				"margin-bottom-50"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"add",
+				"padding-top"
+			],
+			[
+				"cou",
+				"counter-reset"
+			],
+			[
+				"bordcol",
+				"border-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"hide",
+				"hidded-xs"
+			],
+			[
+				"hid",
+				"hidden-sm"
+			],
+			[
+				"hidde",
+				"hidden-lg"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"margin-",
+				"margin-top\t(style.css)"
+			],
+			[
+				"rg",
+				"rgba()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"set sy",
+				"Set Syntax: PHP"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/sergey/Рабочий стол/sites/marinazarova.com"
+	],
+	"file_history":
+	[
+		"/home/sergey/Рабочий стол/skif-master/dist/index.html",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/js/report-utils.js",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/card/test2.htm",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/card/card.htm",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/test/test.htm",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/test/test.js",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/card/kf-pure.js",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/card/kf.htm",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/card/kf.js",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/card/maincard.js",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/regcard/regcard.js",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/regcard/regcard-parameters.js",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/card/kf.css",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/js/common-utils.js",
+		"/home/sergey/Рабочий стол/Библиотека/Ruslan-Neo/АРМы/CIRC/with-security/reports-config/card/card-utils.js",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/templates/page--node--18.tpl.php",
+		"/home/sergey/Рабочий стол/qwe/Английский с Юлией Ахматовой _ Английский с Юлией Ахматовой.html",
+		"/home/sergey/Рабочий стол/qwe/qwerty.css",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/css/style.css",
+		"/home/sergey/Рабочий стол/blabla.html",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/templates/user-profile.tpl.php",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/templates/page--user--password.tpl.php",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/templates/page--user--register.tpl.php",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/templates/page--user--reset.tpl.php",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/css/768.css",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/templates/user-login-block.tpl.php",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/templates/page--user--edit.tpl.php",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/templates/user-profile-edit.tpl.php",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/templates/page--user--login.tpl.php",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/css/992.css",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/js/custom.js",
+		"/run/user/1000/gvfs/ftp:host=krypton2.vps-private.net/sites/all/themes/ahengtheme/css/hamburger-menu-style.css",
+		"/home/sergey/Загрузки/main.css",
+		"/home/sergey/Рабочий стол/aheng/style.css",
+		"/home/sergey/Рабочий стол/aheng/page--node--18.tpl.php",
+		"/tmp/fz3temp-2/style.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"item1",
+			".print-area-page2",
+			"ReportUtils",
+			"pos",
+			"options.holdingsMode",
+			"getParameterBoolean",
+			"processor",
+			"processor2",
+			"video-",
+			"margin-left-",
+			"margin-right-",
+			"padding-right-",
+			"padding-left-",
+			"padding-bottom-",
+			"padding-top-",
+			"margin-bottom-",
+			"margin-top-",
+			"margin-top-40",
+			"margin-top-60",
+			"margin-bottom-60",
+			"margin-bottom-50",
+			"padding-bottom-50",
+			"header",
+			"font-fam",
+			"ax",
+			"h4",
+			"Как"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "marinazarova.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
