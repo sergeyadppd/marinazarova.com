@@ -34,7 +34,7 @@ div#finSliderMenu-menuContentBlock{
 	
 
 	/*margin: 0 0 4px 0;*/
-	background-color: #fff;
+	background-color: #000;
 	/*transition: all 600ms ease-in-out;*/
 }
 
@@ -177,7 +177,7 @@ div#finSliderMenu-menuContentBlock li.leaf a{
 }
 
 div#finSliderMenu-menuContentBlock{
-	min-width:320px;
+	/*min-width:320px;*/
 }
 
 /* ----- scroll-style ----- */
@@ -217,7 +217,11 @@ div#finSliderMenu-menuContentBlock{
 	width: 30px;
 	height: 30px;
 	cursor: pointer;
-	
+	transition: all 0.3s cubic-bezier(0.42,0,0.58,1)
+}
+#finSliderMenu-menuCloseButton:hover{
+	transform: scale(1.2,1.2);
+
 }
 
 #finSliderMenu-menuCloseButton-item1{
@@ -225,7 +229,7 @@ div#finSliderMenu-menuContentBlock{
 	background-color: white;
 	height: 2px;
 	left: 0;
-	top: 0;
+	top: 14px;
 	width: 100%;
 	z-index: 10002;
 	position: absolute;
@@ -237,7 +241,7 @@ div#finSliderMenu-menuContentBlock{
 	width: 100%;
 	height: 2px;
 	left: 0;
-	top: 0;
+	top: 14px;
 	z-index: 10003;
 	position: absolute;
 }
